@@ -1,7 +1,8 @@
 
-![Local AI Document Summarization](screenshots/hero-document-summarization.png)
+![Local AI Document Summarization](local-ai-server/screenshots/hero-document-summarization.png)
 
 # Local AI Server (Ollama + Open WebUI)
+
 
 A fully local AI setup running a large language model on personal hardware using Ollama and Open WebUI, without relying on cloud-based AI services.
 
