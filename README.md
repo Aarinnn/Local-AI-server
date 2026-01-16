@@ -1,8 +1,9 @@
-![Docker](https://img.shields.io/badge/Docker-Used-blue)
-![Ollama](https://img.shields.io/badge/Ollama-LLM-green)
-![Open WebUI](https://img.shields.io/badge/Open%20WebUI-Interface-orange)
-![WSL](https://img.shields.io/badge/WSL-Linux-purple)
-![Self-Hosted](https://img.shields.io/badge/Self--Hosted-Yes-success)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMTIgMkM2LjQ4IDIgMiA2LjQ4IDIgMTJzNC40OCAxMCAxMCAxMCAxMC00LjQ4IDEwLTEwUzE3LjUyIDIgMTIgMnoiIGZpbGw9IiNmZmYiLz48L3N2Zz4=&logoColor=white)](https://ollama.ai/)
+[![Open WebUI](https://img.shields.io/badge/Open_WebUI-4A90E2?style=for-the-badge&logo=web&logoColor=white)](https://github.com/open-webui/open-webui)
+[![WSL](https://img.shields.io/badge/WSL-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://docs.microsoft.com/en-us/windows/wsl/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+[![Self Hosted](https://img.shields.io/badge/Self_Hosted-00A86B?style=for-the-badge&logo=homeassistant&logoColor=white)](https://github.com/awesome-selfhosted/awesome-selfhosted)
 
 
 ![Local AI Document Summarization](local-ai-server/screenshots/hero-document-summarization.png)
