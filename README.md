@@ -1,3 +1,9 @@
+![Docker](https://img.shields.io/badge/Docker-Used-blue)
+![Ollama](https://img.shields.io/badge/Ollama-LLM-green)
+![Open WebUI](https://img.shields.io/badge/Open%20WebUI-Interface-orange)
+![WSL](https://img.shields.io/badge/WSL-Linux-purple)
+![Self-Hosted](https://img.shields.io/badge/Self--Hosted-Yes-success)
+
 
 ![Local AI Document Summarization](local-ai-server/screenshots/hero-document-summarization.png)
 
