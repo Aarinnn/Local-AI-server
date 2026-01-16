@@ -82,28 +82,28 @@ Stop the Ollama server by pressing **Ctrl + C** in the terminal where it is runn
 
 ## Screenshot / Guide 
 
-![WSL + Ollama Installation](screenshots/01-wsl-ollama-install.png)
+![WSL + Ollama Install](local-ai-server/screenshots/01-wsl-ollama-install.png)
 
 
-![Ollama Running Locally](screenshots/02-ollama-running.png)
+![Ollama Running](local-ai-server/screenshots/02-ollama-running.png)
 
 
-![Docker Service Running](screenshots/03-docker-running.png)
+![Docker Running](local-ai-server/screenshots/03-docker-running.png)
 
 
-![Open WebUI Container Active](screenshots/04-openwebui-container.png)
+![Open WebUI Container](local-ai-server/screenshots/04-openwebui-container.png)
 
 
-![Open WebUI Admin Setup](screenshots/05-openwebui-admin.png)
+![Open WebUI Admin Setup](local-ai-server/screenshots/05-openwebui-admin.png)
 
 
-![Open WebUI Chat Interface](screenshots/06-openwebui-chat.png)
+![Open WebUI Chat](local-ai-server/screenshots/06-openwebui-chat.png)
 
 
-![Local Chat Test](screenshots/07-chat-test.png)
+![Chat Test](local-ai-server/screenshots/07-chat-test.png)
 
 
-![GPU Usage During Inference](screenshots/08-gpu-usage.png)
+![GPU Usage](local-ai-server/screenshots/08-gpu-usage.png)
 
 
 
