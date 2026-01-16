@@ -1,0 +1,78 @@
+
+![Local AI Document Summarization](screenshots/hero-document-summarization.png)
+
+# Local AI Server (Ollama + Open WebUI)
+
+A fully local AI setup running a large language model on personal hardware using Ollama and Open WebUI, without relying on cloud-based AI services.
+
+## Project Overview
+
+This project documents the setup of a self-hosted AI system that runs entirely on a local machine.
+The goal was to run and interact with a large language model locally using a browser-based interface, while keeping all inference private and offline.
+
+The system uses a local model server combined with a containerized web interface, allowing users to interact with the AI through a browser without relying on any external AI providers.
+
+## Tech Stack
+
+- **Ollama** – Local large language model server  
+- **Open WebUI** – Browser-based interface for interacting with the model  
+- **Docker** – Containerized deployment of the web interface  
+- **WSL2 (Ubuntu)** – Linux environment running on Windows  
+- **LLaMA 3** – Local large language model  
+
+## How to Run the Project
+
+### 1. Start the Ollama server
+In a WSL terminal:
+```bash
+ollama serve
+```
+
+## To check if Ollama is running:
+
+http://localhost:11434
+
+## In a separate terminal
+```bash
+
+docker start open-webui
+``` 
+
+## In the browser
+
+http://localhost:8080
+
+## How to stop it 
+```bash
+
+docker stop open-webui
+``` 
+
+Stop the Ollama server by pressing **Ctrl + C** in the terminal where it is running.
+
+
+## Screenshot / Guide 
+
+![WSL + Ollama Installation](screenshots/01-wsl-ollama-install.png)
+
+![Ollama Running Locally](screenshots/02-ollama-running.png)
+
+![Docker Service Running](screenshots/03-docker-running.png)
+
+![Open WebUI Container Active](screenshots/04-openwebui-container.png)
+
+![Open WebUI Admin Setup](screenshots/05-openwebui-admin.png)
+
+![Open WebUI Chat Interface](screenshots/06-openwebui-chat.png)
+
+![Local Chat Test](screenshots/07-chat-test.png)
+
+![GPU Usage During Inference](screenshots/08-gpu-usage.png)
+
+![PDF Summarization Example](screenshots/09-pdf-summary.png)
+
+
+
+
+
+
