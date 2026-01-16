@@ -82,26 +82,38 @@ Stop the Ollama server by pressing **Ctrl + C** in the terminal where it is runn
 
 ## Screenshot / Guide 
 
+The screenshots below show the full setup process and system in action, including local model execution with Ollama, Dockerized Open WebUI, GPU utilization during inference, and document summarization workflows.
+
+
+WSL + ollama 
+
 ![WSL + Ollama Install](local-ai-server/screenshots/01-wsl-ollama-install.png)
 
+Confirms that ollama is running
 
 ![Ollama Running](local-ai-server/screenshots/02-ollama-running.png)
 
+Docker Running
 
 ![Docker Running](local-ai-server/screenshots/03-docker-running.png)
 
+Open WebUI Container
 
 ![Open WebUI Container](local-ai-server/screenshots/04-openwebui-container.png)
 
+Open WebUI Admin Setup
 
 ![Open WebUI Admin Setup](local-ai-server/screenshots/05-openwebui-admin.png)
 
+Open WebUI chat
 
 ![Open WebUI Chat](local-ai-server/screenshots/06-openwebui-chat.png)
 
+Chat Testing
 
 ![Chat Test](local-ai-server/screenshots/07-chat-test.png)
 
+GPU usage
 
 ![GPU Usage](local-ai-server/screenshots/08-gpu-usage.png)
 
