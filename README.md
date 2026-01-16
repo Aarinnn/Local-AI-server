@@ -93,6 +93,10 @@ Confirms that ollama is running
 
 ![Ollama Running](local-ai-server/screenshots/02-ollama-running.png)
 
+AI running in Terminal + GPU usage ( Side by Side )
+
+![GPU Usage](local-ai-server/screenshots/08-gpu-usage.png)
+
 Docker Running
 
 ![Docker Running](local-ai-server/screenshots/03-docker-running.png)
@@ -113,9 +117,6 @@ Chat Testing
 
 ![Chat Test](local-ai-server/screenshots/07-chat-test.png)
 
-GPU usage
-
-![GPU Usage](local-ai-server/screenshots/08-gpu-usage.png)
 
 
 
