@@ -97,6 +97,10 @@ AI running in Terminal + GPU usage ( Side by Side )
 
 ![GPU Usage](local-ai-server/screenshots/08-gpu-usage.png)
 
+Open WebUI is deployed using Docker and connects to a locally running Ollama
+
+![Chat Test](local-ai-server/screenshots/07-chat-test.png)
+
 Docker Running
 
 ![Docker Running](local-ai-server/screenshots/03-docker-running.png)
@@ -113,9 +117,6 @@ Open WebUI chat
 
 ![Open WebUI Chat](local-ai-server/screenshots/06-openwebui-chat.png)
 
-Chat Testing
-
-![Chat Test](local-ai-server/screenshots/07-chat-test.png)
 
 
 
